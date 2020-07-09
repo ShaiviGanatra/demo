@@ -1,3 +1,3 @@
 # first title 
 
-learn git and github for the worst-branch
+learn git and github from the worst-branch 
